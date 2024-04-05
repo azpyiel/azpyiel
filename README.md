@@ -1,6 +1,6 @@
 #
 <div id="header" align="center">
-<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/7e/Cutscene_asset_shadow_milk_puppet_2.png/revision/latest?cb=20240225170204" width="100"/>
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/7e/Cutscene_asset_shadow_milk_puppet_2.png/revision/latest?cb=20240225170204" width="1000"/>
 </div>
 <div align="center">
 ⌜ 𝐚𝐧𝐲 pronouns ✧ 𝐦𝐢𝐧𝐨𝐫 ! ﹐⌝
