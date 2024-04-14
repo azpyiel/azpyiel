@@ -14,5 +14,5 @@
 
 𝚌𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚏𝚘𝚛 𝚊𝚛𝚝𝚜!!
 
-im lazy to make new skins so youll probably see mostly in a shadow milk cookie cos
+im lazy to make new skins so youll probably see me mostly in a shadow milk cookie cos
 
