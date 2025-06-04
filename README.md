@@ -1,6 +1,6 @@
 #
 <div id="header" align="center">
-<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/7e/Cutscene_asset_shadow_milk_puppet_2.png/revision/latest?cb=20240225170204" width="400"/>
+<img src="https://i.ibb.co/LGS7Bng/Untitled44-20250604193109.png" alt="Untitled44-20250604193109"/>
 </div>
 
 
