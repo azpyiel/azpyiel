@@ -13,4 +13,5 @@
 𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀
 
 check out my strawpage!!
+barely playing pt btw ;P
 
