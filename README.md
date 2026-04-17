@@ -6,12 +6,6 @@
 
 
 <div align="center">
-⌜ 𝐚𝐧𝐲 pronouns ✧ 𝐦𝐢𝐧𝐨𝐫 ! ﹐⌝
 
-⌞ 𝐓𝐢𝐍𝐞, 𝟧𝓌𝟦 ⟡ fil / eng ﹐⌟
 
 𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀
-
-check out my strawpage!!
-barely playing pt btw ;P
-
