@@ -5,7 +5,5 @@
   
 </div>
 
-<div align="center">
-gayayggayaygayga
-</div>
-𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀
+<p align="center">ᴅᴏᴇꜱ ʏᴏᴜʀ ɪɴꜱᴀᴛɪᴀʙʟᴇ ɢʀᴇᴇᴅ ᴍᴀᴛᴄʜ ᴛʜᴇ ɪɴꜰɪɴɪᴛᴇɴᴇꜱꜱ ᴏꜰ ʏᴏᴜʀ ʟɪꜰᴇ?</p>
+<p align="center">𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀</p>
