@@ -1,11 +1,9 @@
 #
 <div id="header" align="center">
-<img src="(https://cdn.discordapp.com/attachments/1256498394466226229/1494516552559628550/Untitled10_20260417045435.png?)" alt="Untitled10_20260417045435" alt="Untitled10_20260417045435"/>
+![image alt](https://github.com/azpyiel/azpyiel/blob/a1b0b3f7a0e1be1238a491c8e20af4b0795cbfbe/banner%20cheese.png)
 </div>
-
-
 
 <div align="center">
 
-
+gayayggayaygayga
 𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀𓈀
