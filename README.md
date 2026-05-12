@@ -1,5 +1,9 @@
-![](https://komarev.com/ghpvc/?username=azpyiel&label=How+do+I+do+this+shit.&color=D8CC34&abbreviated=true)
+<p align="center">
+<a href=![](https://komarev.com/ghpvc/?username=azpyiel&label=How+do+I+do+this+shit.&color=D8CC34&abbreviated=true)</a>
+</p>
 
+<div id="header" align="center">
+  
 ![image alt](https://github.com/azpyiel/azpyiel/blob/9a55c071836667c221a33a2e49e1e68bb05f025d/A60C901F-A06D-4708-833D-E68A25D44056.gif)
   
 </div>
