@@ -16,7 +16,7 @@
      <br/>
 
 <!-- TOP SECTION -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="35%" valign="middle" align="center">
 
@@ -26,9 +26,7 @@
 
 <td width="65%" valign="middle" align="center">
 
-
-> <b>i͟n͟t͟e͟r͟e͟s͟t͟s͟</b>  
-INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO
+ $\text{\it\color{#fedf8a}{ㅤㅤㅤㅤㅤhow the fuck do i remove the lines from this tableㅤㅤㅤㅤㅤㅤㅤㅤ}}$
 
 </td>
 </tr>
@@ -36,19 +34,19 @@ INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<!-- INFO ON THE LEFT (CENTERED TEXT) -->
+<!-- INFO ON THE LEFT -->
 <td width="65%" valign="middle" align="center">
 
-> <b>i͟n͟t͟e͟r͟e͟s͟t͟s͟</b>  
+<b>ts frying me</b><br>
 INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO
 
 </td>
 
 <!-- IMAGE ON THE RIGHT -->
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork.png" width="200"/>
 
