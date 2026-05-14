@@ -18,6 +18,7 @@
 <!-- TOP SECTION -->
 
 <!-- shit -->
+---
 
 <img align="left" src="https://github.com/azpyiel/azpyiel/blob/54b5fd19eb08350235c7e6596a412f69e50e29b4/Untitled_Artwork%202.png" width="200" alt="image" />
 </br>
@@ -35,11 +36,12 @@ $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm ta
 </br>
 
 ---
-
-</br>
+<p align="center">
 <img align="right" src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork.png" width="200" alt="image" />
 </br>
 </br>
+</br>
+
 <p align="center">
 $\large{\text{\it\color{#ce8858}{Pfp and Graphic art made by me! no socialsyet, sorry folks!}}}$
 </p>
@@ -47,13 +49,10 @@ $\large{\text{\it\color{#ce8858}{Pfp and Graphic art made by me! no socialsyet, 
 </br>
 </br>
 </br>
-</br>
 
-</br>
-</br>
-</br>
-</br>
-</br>
+---
+
+<p align="center">
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/e97f939dff786af4ad93f9ac15a5b369369f3aeb/IMG_0525.png" width="500">
  
 <!-- SPOTIFY -->
