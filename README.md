@@ -40,8 +40,8 @@
 <!-- INFO ON THE LEFT -->
 <td width="65%" valign="middle" align="center">
 
-<b>ts frying me</b><br>
-INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO
+<b>ts frying me planceholder</b><br>
+ts coding frying me dude
 
 </td>
 
