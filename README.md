@@ -22,10 +22,11 @@
 <img align="left" src="https://github.com/azpyiel/azpyiel/blob/54b5fd19eb08350235c7e6596a412f69e50e29b4/Untitled_Artwork%202.png" width="200" alt="image" />
 </br>
 </br>
+</br>
 <p align="center">
 $\large{\text{\it\color{#fedf8a}{Feel free to C+H anytime!}}}$
 <br/>
-$\large{\text{\it\color{#fedf8a}{Probably offtab most of the time, unless I'm talking with my friends}}}$
+$\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm talking with my friends}}}$
 </br>
 </br>
 </br>
@@ -40,13 +41,21 @@ $\large{\text{\it\color{#fedf8a}{Probably offtab most of the time, unless I'm ta
 </br>
 </br>
 <p align="center">
-$\large{\text{\it\color{#fedf8a}{Pfp and Graphic art made by me! no socialsyet, sorry folks}}}$
+$\large{\text{\it\color{#ce8858}{Pfp and Graphic art made by me! no socialsyet, sorry folks!}}}$
 </p>
 </br>
 </br>
 </br>
 </br>
 </br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+ <img align="center" src="https://github.com/azpyiel/azpyiel/blob/e97f939dff786af4ad93f9ac15a5b369369f3aeb/IMG_0525.png" width="500">
+ 
 <!-- SPOTIFY -->
 <p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
