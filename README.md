@@ -16,44 +16,36 @@
      <br/>
 
 <!-- TOP SECTION -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="35%" valign="middle" align="center">
 
-<img src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork%202.png" width="200"/>
+<!-- shit -->
 
-</td>
+<img align="left" src="https://github.com/azpyiel/azpyiel/blob/54b5fd19eb08350235c7e6596a412f69e50e29b4/Untitled_Artwork%202.png" width="200" alt="image" />
+</br>
+</br>
+<p align="center">
+$\large{\text{\it\color{#fedf8a}{Feel free to C+H anytime!}}}$
+<br/>
+$\large{\text{\it\color{#fedf8a}{Probably offtab most of the time, unless I'm talking with my friends}}}$
+</br>
+</br>
 
-<td width="65%" valign="middle" align="center">
+</p>
+</br>
 
- $\text{\it\color{#fedf8a}{ㅤㅤㅤㅤㅤhow the fuck do i remove the lines from this tableㅤㅤㅤㅤㅤㅤㅤㅤ}}$
+---
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<!-- INFO ON THE LEFT -->
-<td width="65%" valign="middle" align="center">
-
-<b>ts frying me planceholder</b><br>
-ts coding frying me dude
-
-</td>
-
-<!-- IMAGE ON THE RIGHT -->
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork.png" width="200"/>
-
-</td>
-
-</tr>
-</table>
+</br>
+<img align="right" src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork.png" width="200" alt="image" />
+</br>
+</br>
+<p align="center">
+$\large{\text{\it\color{#fedf8a}{Pfp and Graphic art made by me! no socialsyet, sorry folks}}}$
+</p>
+</br>
+</br>
+</br>
+</br>
+</br>
 <!-- SPOTIFY -->
 <p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
