@@ -40,7 +40,7 @@ $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm ta
   <tr>
     <td style="border:none; padding-left:10px;">
 <p align="center">
-$\large{\text{\it\color{#fedf8a}{ㅤPfp and the art in graphics made by me! no socials yet, sorry folks!ㅤ}}}$
+$\large{\text{\it\color{#fedf8a}{Pfp and the art in graphics made by me! no socials yet, sorry folks!}}}$
     </td>
 <td style="border:none; padding:0;">
       <img src="https://github.com/azpyiel/azpyiel/blob/d20245f2743d203142946af884d9afd526c516cf/Untitled_Artwork.png" width="150"/>
