@@ -76,6 +76,5 @@ $\large{\text{\it\color{#dc9f69}{no socials yet, sorry folks!}}}$
 <p align="center">
    <I><sub>"ㅤWere so rich in love, we're rolling in cashmereㅤ"</sub></I>
  <p align="center">
- <img align="center" src="https://github.com/azpyiel/azpyiel/blob/8c9b2e3039e87854305c53b6d873747f788d99dd/IMG_0526.png" width="150">
-<p align="center">
+
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
