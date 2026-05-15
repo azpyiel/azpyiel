@@ -41,7 +41,7 @@ $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm ta
   <tr>
     <td style="border:none; padding-left:10px;">
 <p align="center">
-$\large{\text{\it\color{#fedf8a}{Pfp and the art in graphics made by me!}}}$
+$\large{\text{\it\color{#fedf8a}{ㅤㅤㅤㅤㅤㅤPfp and the art in graphics made by me!ㅤㅤㅤㅤㅤㅤ}}}$
 </br>
 $\large{\text{\it\color{#dc9f69}{no socials yet, sorry folks!}}}$
     </td>
