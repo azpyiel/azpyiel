@@ -26,6 +26,7 @@ $\large{\text\it\color{#644a49}{"ㅤIn \space champagne \space kisses, \space ho
     <td style="border:none; padding-left:10px;">
      <p align="center">
 $\large{\text{\it\color{#fedf8a}{Feel free to C+H anytime!}}}$
+</br>
 $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm talking with my friends}}}$
     </td>
   </tr>
@@ -41,6 +42,7 @@ $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm ta
     <td style="border:none; padding-left:10px;">
 <p align="center">
 $\large{\text{\it\color{#fedf8a}{Pfp and the art in graphics made by me!}}}$
+</br>
 $\large{\text{\it\color{#dc9f69}{no socials yet, sorry folks!}}}$
     </td>
 <td style="border:none; padding:0;">
