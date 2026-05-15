@@ -18,32 +18,36 @@ $\large{\text\it\color{#644a49}{"ㅤIn \space champagne \space kisses, \space ho
 <!-- shit -->
 
 
-<img align="left" src="https://github.com/azpyiel/azpyiel/blob/54b5fd19eb08350235c7e6596a412f69e50e29b4/Untitled_Artwork%202.png" width="200" alt="image" />
-</br>
-</br>
-<p align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:0;">
+      <img src="https://github.com/azpyiel/azpyiel/blob/54b5fd19eb08350235c7e6596a412f69e50e29b4/Untitled_Artwork%202.png" width="150"/>
+    </td>
+    <td style="border:none; padding-left:10px;">
+     <p align="center">
 $\large{\text{\it\color{#fedf8a}{Feel free to C+H anytime!}}}$
 $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm talking with my friends}}}$
- </p>
-</br>
-</br>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/f58a6a027e9e9f7370f44468f05e008a7ff30e70/ribbbonn.png" width="600">
-</br>
-</br>
-<p align="center">
-<img align="right" src="https://github.com/azpyiel/azpyiel/blob/955801f12383eb8981f143bb7dfcba561bbe6927/Untitled_Artwork.png" width="200" alt="image" />
-</br>
-</br>
+
 </br>
 
+<table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding-left:10px;">
 <p align="center">
-$\large{\text{\it\color{#fedf8a}{Pfp and the art in graphics made by me! no socials yet, sorry folks!}}}$
-</p>
-</br>
-</br>
-</br>
+$\large{\text{\it\color{#fedf8a}{ㅤPfp and the art in graphics made by me! no socials yet, sorry folks!ㅤ}}}$
+    </td>
+<td style="border:none; padding:0;">
+      <img src="https://github.com/azpyiel/azpyiel/blob/d20245f2743d203142946af884d9afd526c516cf/Untitled_Artwork.png" width="150"/>
+    </td>
+  </tr>
+</table>
+
 </br>
 
 
