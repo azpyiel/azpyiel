@@ -78,8 +78,8 @@ $\small{\text{\it\color{#dc9f69}{I am not usually to approach and interact publi
 <p align="center">
    <I><sub>"ㅤWere so rich in love, we're rolling in cashmereㅤ"</sub></I>
  <p align="center">
-
-  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/5ff9930b756abf8f1ec47151f468a8720ce4e33a/IMG_0507.png" width="150">
+      <br/>
+  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/810d5f81dec8d4a85989d64c621673f6ca52848e/IMG_0505.png" width="150">
   <p align="center">
 ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
   <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/azpyiel><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
