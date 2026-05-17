@@ -13,10 +13,6 @@ $\large{\text\it\color{#644a49}{"ㅤIn \space champagne \space kisses, \space ho
      <br/>
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/e97f939dff786af4ad93f9ac15a5b369369f3aeb/IMG_0525.png" width="500">
      <br/>
-<!-- TOP SECTION -->
-
-<!-- shit -->
-
 
 <table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
@@ -55,14 +51,11 @@ $\small{\text{\it\color{#dc9f69}{I am not usually to approach and interact publi
 
 </br>
 
-
-
 <p align="center">
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/e97f939dff786af4ad93f9ac15a5b369369f3aeb/IMG_0525.png" width="500">
       <br/>
   <img align="center" src="https://github.com/azpyiel/azpyiel/blob/7bcb53606cafceeba5d64cce9b98e5b82a2a14a6/IMG_0506.png" width="150">
  
-<!-- SPOTIFY -->
 <p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pq21vynw6auuo713kbg6ll3ds&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=fee59f&bar_color_cover=false"/>
@@ -73,7 +66,6 @@ $\small{\text{\it\color{#dc9f69}{I am not usually to approach and interact publi
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/8c9b2e3039e87854305c53b6d873747f788d99dd/IMG_0526.png" width="150">
       <br/>
 <p align="center"><a href="https://mypledgedbloodoath.atabook.org"><img src="https://github.com/azpyiel/azpyiel/blob/8c9b2e3039e87854305c53b6d873747f788d99dd/atabook%20cgh.gif?raw=true" width="40%"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://everlastinggreed.straw.page"><img src="https://github.com/azpyiel/azpyiel/blob/8c9b2e3039e87854305c53b6d873747f788d99dd/strawpage%20cgh.gif?raw=true" width="40%"></a></p>
-
 
 <p align="center">
    <I><sub>"ㅤWere so rich in love, we're rolling in cashmereㅤ"</sub></I>
@@ -87,3 +79,5 @@ ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
  $\tiny{\text{\it\color{#fedf8a}{@gilly}}}$ $\tiny{\text{\it\color{#fedf8a}{@me}}}$ $\tiny{\text{\it\color{#fedf8a}{@kay}}}$
 
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
+ 
+<!-- this thang is a mess smh -->
