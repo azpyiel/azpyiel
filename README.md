@@ -3,7 +3,7 @@
      <br/>
   <img align="center" src="https://komarev.com/ghpvc/?username=azpyiel&label=+++ɪ+want+ᴛʜɪɴɢꜱ+ᴛᴏ+be+ʙᴇᴀᴜᴛɪꜰᴜʟ.++++++++&color=D89B64&abbreviated=true&style=flat-square">
 
-  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/b1bc70bfeb1b2d6a7cee531cbd3d1a9b7e31861b/cheese%20intro.gif" width="900">
+  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/b1bc70bfeb1b2d6a7cee531cbd3d1a9b7e31861b/cheese%20intro.gif" width="700">
    <br/>
 <p align="center">
 $\large{\text\it\color{#644a49}{"ㅤIn \space champagne \space kisses, \space hold \space me \space in \space your \space lap \space of \space luxuryㅤ"}}$
@@ -25,9 +25,9 @@ $\large{\text\it\color{#644a49}{"ㅤIn \space champagne \space kisses, \space ho
     </td>
     <td style="border:none; padding-left:10px;">
      <p align="center">
-$\large{\text{\it\color{#fedf8a}{Feel free to C+H anytime!}}}$
+${\text{\it\color{#fedf8a}{Freely C+H and INT anytime!}}}$
 </br>
-$\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm talking with my friends}}}$
+${\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm talking with my friends}}}$
     </td>
   </tr>
 </table>
@@ -41,12 +41,14 @@ $\large{\text{\it\color{#dc9f69}{Probably offtab most of the time, unless I'm ta
   <tr>
     <td style="border:none; padding-left:10px;">
 <p align="center">
-$\large{\text{\it\color{#fedf8a}{ㅤㅤㅤㅤㅤㅤPfp and the art in graphics made by me!ㅤㅤㅤㅤㅤㅤ}}}$
+${\text{\it\color{#fedf8a}{Pfp and the art in graphics made by me!, no socials yet, sorry folks!}}}$
 </br>
-$\large{\text{\it\color{#dc9f69}{no socials yet, sorry folks!}}}$
+$\small{\text{\it\color{#dc9f69}{I am not usually to approach and interact publicly unless I am complimenting or crowning.}}}$
+ $\small{\text{\it\color{#dc9f69}{But feel free to approach me first! I would love to make new friends :3}}}$
+ </br>
     </td>
 <td style="border:none; padding:0;">
-      <img src="https://github.com/azpyiel/azpyiel/blob/d20245f2743d203142946af884d9afd526c516cf/Untitled_Artwork.png" width="150"/>
+      <img src="https://github.com/azpyiel/azpyiel/blob/d20245f2743d203142946af884d9afd526c516cf/Untitled_Artwork.png" width="350"/>
     </td>
   </tr>
 </table>
@@ -76,5 +78,12 @@ $\large{\text{\it\color{#dc9f69}{no socials yet, sorry folks!}}}$
 <p align="center">
    <I><sub>"ㅤWere so rich in love, we're rolling in cashmereㅤ"</sub></I>
  <p align="center">
+
+  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/5ff9930b756abf8f1ec47151f468a8720ce4e33a/IMG_0507.png" width="150">
+  <p align="center">
+${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
+  <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/azpyiel><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
+ <p align="center"> 
+ $\tiny{\text{\it\color{#fedf8a}{@gilly}}}$ $\tiny{\text{\it\color{#fedf8a}{@me}}}$ $\tiny{\text{\it\color{#fedf8a}{@kay}}}$
 
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
