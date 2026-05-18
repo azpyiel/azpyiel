@@ -74,7 +74,7 @@ $\small{\text{\it\color{#dc9f69}{I am not usually to approach and interact publi
   <img align="center" src="https://github.com/azpyiel/azpyiel/blob/810d5f81dec8d4a85989d64c621673f6ca52848e/IMG_0505.png" width="150">
   <p align="center">
 ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
-  <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/azpyiel><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
+  <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/c604bb229951c35524af894f2cd3a702/12206ea7af3f03dd-cf/s2048x3072/8b3024f6f9dde1a5961be5b7224df47dc84ad891.pnj?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/azpyiel><img src="https://64.media.tumblr.com/99083c71c3b45ca8805c34a1c9fdcc70/12206ea7af3f03dd-05/s2048x3072/27a8903eb9b45a64a8f54cc1a21cb3a3d0a295ac.pnj?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://64.media.tumblr.com/9bccc1b7baa73165f3612598e3d875b3/12206ea7af3f03dd-37/s2048x3072/d62383c7336ee9957362a955624b89c9608f3411.pnj?raw=true" width="15%"></a></p>
  <p align="center"> 
  $\tiny{\text{\it\color{#fedf8a}{@gilly}}}$ $\tiny{\text{\it\color{#fedf8a}{@me}}}$ $\tiny{\text{\it\color{#fedf8a}{@kay}}}$
 
