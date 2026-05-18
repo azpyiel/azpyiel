@@ -77,6 +77,8 @@ ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
   <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/c604bb229951c35524af894f2cd3a702/12206ea7af3f03dd-cf/s2048x3072/8b3024f6f9dde1a5961be5b7224df47dc84ad891.pnj?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/azpyiel><img src="https://64.media.tumblr.com/99083c71c3b45ca8805c34a1c9fdcc70/12206ea7af3f03dd-05/s2048x3072/27a8903eb9b45a64a8f54cc1a21cb3a3d0a295ac.pnj?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://64.media.tumblr.com/9bccc1b7baa73165f3612598e3d875b3/12206ea7af3f03dd-37/s2048x3072/d62383c7336ee9957362a955624b89c9608f3411.pnj?raw=true" width="15%"></a></p>
  <p align="center"> 
  $\tiny{\text{\it\color{#fedf8a}{@gilly}}}$ $\tiny{\text{\it\color{#fedf8a}{@me}}}$ $\tiny{\text{\it\color{#fedf8a}{@kay}}}$
+  </br>
+ $\tiny{\text{\it\color{#644a49}{"Here in ponytownville reporting three criminals on the loose" ahh pics}}}$
 
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
  
