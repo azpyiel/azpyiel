@@ -78,7 +78,7 @@ ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
  <p align="center"> 
  $\tiny{\text{\it\color{#fedf8a}{@gilly}}}$ $\tiny{\text{\it\color{#fedf8a}{@me}}}$ $\tiny{\text{\it\color{#fedf8a}{@kay}}}$
   </br>
- $\tiny{\text{\it\color{#644a49}{"Here in ponytownville reporting three criminals on the loose" ahh pics}}}$
+ $\tiny{\text{\it\color{#644a49}{"Here in ponytownville news, we are now reporting three criminals on the loose" ahh pics}}}$
 
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
  
