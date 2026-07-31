@@ -1,7 +1,7 @@
 <p align="center">
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/b1bc70bfeb1b2d6a7cee531cbd3d1a9b7e31861b/Untitled36_20260514112953.png" width="900">
      <br/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=azpyiel&label=+++i+need+my+dubai+chocolate++++++++&color=D89B64&abbreviated=true&style=flat-square">
+  <img align="center" src="https://komarev.com/ghpvc/?username=azpyiel&label=+++By+your+hand+is+the+only+end+I+foresee.+++++&color=D89B64&abbreviated=true&style=flat-square">
 
   <img align="center" src="https://github.com/azpyiel/azpyiel/blob/b1bc70bfeb1b2d6a7cee531cbd3d1a9b7e31861b/cheese%20intro.gif" width="700">
    <br/>
