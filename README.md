@@ -83,7 +83,7 @@ ${\text{\it\color{#fedf8a}{Check out my fav sillies' GitHubs}}}$
 <details>
   <summary>$\tiny\color{#fedf8a}{\text{awards 👀}}$</summary>
  <sub> 
- <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media, </a><a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame, </a></a><a href="https://github.com/fans-town">@fans-town, </a> </a></a><a href="https://github.com/title-town">@title-town, </a><a href="https://github.com/ponychievements">@ponychievements, </a>
+ <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media </a>, <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>, </a><a href="https://github.com/fans-town">@fans-town</a>, <a href="https://github.com/title-town">@title-town</a>, <a href="https://github.com/ponychievements">@ponychievements </a>
 </details>
  </sub>
  <img align="center" src="https://github.com/azpyiel/azpyiel/blob/a1382a4b2f606d012811287bf8c6aabe95bf65d0/upsidedoownw.png" width="900">
